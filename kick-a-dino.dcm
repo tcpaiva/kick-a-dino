@@ -1,0 +1,49 @@
+EESchema-DOCLIB  Version 2.0  Date: 04/03/2013 08:56:41
+#
+$CMP 10X1F-H8.5
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP 74LVC1G125DCK
+D Quad buffer 3 State out
+K TTL Buffer 3State
+$ENDCMP
+#
+$CMP 8X1F-H.5
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP CONN_8
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP FDN340P
+F transistors/mos/*.*
+$ENDCMP
+#
+$CMP MOS_P
+F transistors/mos/*.*
+$ENDCMP
+#
+$CMP MOSFET_P
+F transistors/mos/*.*
+$ENDCMP
+#
+$CMP NCP1117ST33T3G-3V3
+D Low drop regulator 1.2 .. 5V SOT23 package
+$ENDCMP
+#
+$CMP R_PACK2
+D 4 resistors Pack
+K R DEV
+$ENDCMP
+#
+$CMP STRIP_4X1V_M
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+#End Doc Library
